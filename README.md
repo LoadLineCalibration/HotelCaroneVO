@@ -1,5 +1,5 @@
-# HotelCarone voiceover source
-Source files for HotelCarone Deus Ex mod voiceover. Contains original mp3 files, import script and modified .con files.
+# Hotel Carone voiceover source
+Source files for the Hotel Carone Deus Ex mod voiceover. Contains original mp3 files, import script and modified .con files.
 The "InfoLink.7z" archive contains source files without "infolink" effect.
 
 
@@ -9,4 +9,4 @@ To compile:
 * Compile like any other package, or use the "_Build.cmd" command file.
 * Copy HotelCaroneAudioHC.u and HotelCaroneText.u to DeusEx\HotelCarone\System\
 
-Warning! Ignore the "HotelCarone.u" file, otherwise this will break the mod.
+Warning! Ignore the "HotelCarone.u" file, otherwise this will break the mod. Just delete this file.
