@@ -7,6 +7,6 @@ To compile:
 * Copy the HotelCarone directory to your DeusEx base directory.
 * Modify the "DeusEx.ini" file and add HotelCarone to EditPackages.
 * Compile like any other package, or use the "_Build.cmd" command file.
-* Copy HotelCaroneAudioHC.u and HotelCaroneText.u to DeusEx\HotelCarone\System\
+* Copy HotelCaroneAudioHC.u and HotelCaroneText.u files from the HotelCarone\Built\ to DeusEx\HotelCarone\System\
 
 Warning! Ignore the "HotelCarone.u" file, otherwise this will break the mod. Just delete this file.
